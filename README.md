@@ -9,7 +9,7 @@ Bachelor of Engineering in Information Technology | GPA 9.28 / 10
 <br>Coursework: Data Structures, Theory of Computation, Database Management Systems, Design & Analysis of Algorithms, Machine Learning, Software Design & Modeling, Web Development, Computer Network
 
 ## 🌱 TECHNICAL SKILLS
-Languages/Web Technologies : Python, Pandas, Numpy, Matplotlib, Sklearn, Seaborn, HTML, CSS, JavaScript
+Languages/Web Technologies : Python, Pandas, Numpy, Matplotlib, Sklearn, Seaborn, HTML, CSS, JavaScript, C, C++, R
 <br>Operating Systems          : Ubuntu(Linux), Windows
 <br>Databases                  : MySQL
 <br>Technologies & Platforms   : GitHub, Frappe Framework, Bootstrap, Tableau, Adobe XD, Photoshop, Figma, JIRA
@@ -18,7 +18,7 @@ Languages/Web Technologies : Python, Pandas, Numpy, Matplotlib, Sklearn, Seaborn
 ### Engineer, Elasticrun, Pune, Maharashtra, India | July 2020 - June 2022
 - Worked in the Data Science Team to develop different platforms for Data Science solutions.
 - Designed & developed User Interface for Prediction System to forecast sales.
-- Engineered Sales & Operation Planning Tool to take inputs from on-field managers for their warehouses to plan next month sales targets which reduced 20 days of to and fro of emails to just 3 days of work.
+- Engineered Sales & Operation Planning Tool to take inputs from on-field managers for their warehouses to plan next month sales targets which reduced 15 days of to and fro of emails to just 3 days of work.
 - Created Brand Platform which became a one-stop system for partner brands to get insights of metrics like sales, throughput, customers, reach, etc. through dashboards and used Google Analytics to capture usage patterns.
 - Implemented various systems in Front-End that use several Machine Learning algorithms.
 
@@ -57,6 +57,6 @@ Languages/Web Technologies : Python, Pandas, Numpy, Matplotlib, Sklearn, Seaborn
 
 ## 😄 Hobbies
 - Photography
-- Cooking,
+- Cooking
 - Trekking & Traveling
 - Playing Harmonium

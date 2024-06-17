@@ -8,8 +8,8 @@
 I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a collaborative spirit to teamwork and a can-do attitude to solo projects. Whether it's web development, data science, or machine learning, I'm up for the task. 
 🧑‍🎓 I recently graduated with a Master degree in Computer Science at North Carolina State University. ⚡My expertise is in developing web and mobile applications with latest front-end technologies. I have a strong proficiency in JavaScript, React, Angular, Python, and MySQL. I worked as 🌏 Research Assistant with Dr. Noboru Matsuda where I was responsible for working with data analysts to process data, 🧑‍🏫 Teaching Assistant with Dr. Ben Watson to mentor undergrad students in C and Software Tools course. 🧑‍💻 I worked with Dr. Ed Gehringer on LLM based Teaching Assistant and AI based Peer Tutoring.
 
-> ✅ Ready to face challenges, no matter how rough,
-> ✅ Ready to solve problems, no matter how tough,
+> ✅ Ready to face challenges, no matter how rough,<br>
+> ✅ Ready to solve problems, no matter how tough,<br>
 > ✅ I can work with a team & I alone am also enough!
 
 

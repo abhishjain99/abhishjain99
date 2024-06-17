@@ -57,16 +57,13 @@ I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-plastic&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-plastic&logo=gitlab&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-plastic&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-plastic&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-plastic&logo=windows&logoColor=white)
-
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-plastic&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-plastic&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-plastic&logo=postman&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-plastic&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-plastic&logo=sublime-text&logoColor=important)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-plastic&logo=jupyter&logoColor=white)

@@ -4,8 +4,8 @@
 
 # 👋 Hey there! I'm [Abhishek Firodiya](https://abhishjain99.github.io/portfolio/)
 
-I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a collaborative spirit to teamwork and a can-do attitude to solo projects. Whether it's web development, data science, or machine learning, I'm up for the task. 
-🧑‍🎓 I recently graduated with a Master degree in Computer Science at North Carolina State University. ⚡My expertise is in developing web and mobile applications with latest front-end technologies. I have a strong proficiency in JavaScript, React, Angular, Python, and MySQL. I worked as 🌏 Research Assistant with Dr. Noboru Matsuda where I was responsible for working with data analysts to process data, 🧑‍🏫 Teaching Assistant with Dr. Ben Watson to mentor undergrad students in C and Software Tools course. 🧑‍💻 I worked with Dr. Ed Gehringer on LLM based Teaching Assistant and AI based Peer Tutoring.
+I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a collaborative spirit to teamwork and a can-do attitude to solo projects. Whether it's _**Web Development**_, or **Machine Learning**, I'm up for the task. 
+🧑‍🎓 I recently graduated with a Master degree in Computer Science at North Carolina State University. ⚡My expertise is in developing web and mobile applications with latest front-end technologies. I have a strong proficiency in _**JavaScript**_, _**React**_, _**Angular**_, _**Python**_, and _**MySQL**_. I worked as 🌏 Research Assistant with Dr. Noboru Matsuda where I was responsible for working with data analysts to process data, 🧑‍🏫 Teaching Assistant with Dr. Ben Watson to mentor undergrad students in C and Software Tools course. 🧑‍💻 I worked with Dr. Ed Gehringer on LLM based Teaching Assistant and AI based Peer Tutoring.
 
 > ✅ Ready to face challenges, no matter how rough,<br>
 > ✅ Ready to solve problems, no matter how tough,<br>
@@ -32,11 +32,11 @@ I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a 
 
 ### 📚 Frameworks and Libraries
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-plastic&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-plastic&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-plastic&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-plastic&logo=redux&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-plastic&logo=angularjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-plastic&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-plastic&logo=jquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-plastic&logo=express&logoColor=%2361DAFB)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-plastic&logo=chart.js&logoColor=white)
@@ -67,6 +67,10 @@ I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-plastic&logo=sublime-text&logoColor=important)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-plastic&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat-plastic&logo=rstudio&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-plastic&logo=microsoft&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-plastic&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-plastic&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-plastic&logo=microsoft-word&logoColor=white)
 
 ### 🖥️ ML/DL
 
@@ -77,33 +81,26 @@ I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-plastic&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-plastic&logo=scipy&logoColor=%white)
 
-### 🏢 Office
-
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-plastic&logo=microsoft&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-plastic&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-plastic&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-plastic&logo=microsoft-word&logoColor=white)
-
 <br>
 
 ## ⚡ LEADERSHIP
-- Digital Media Head at Maitri Indian Graduate Student Association | 2022 - 2024
-- Joint Magazine Secretary at PICTOREAL-Annual Magazine of PICT    | 2019 - 2020
-- Design Team Head at PICT CSI Student Branch                      | 2018 - 2019
-- Event Manager at PICTOREAL-Annual Magazine of PICT               | 2018 - 2019
-- Organizer at Addiction-Annual Cultural Event                     | 2018 - 2019
-- Photo shoot Coordinator at PICTOREAL-Annual Magazine of PICT  | 2017 - 2018
+- 🎞️ Digital Media Head at Maitri Indian Graduate Student Association | 2022 - 2024
+- 🧑‍💼 Joint Magazine Secretary at PICTOREAL-Annual Magazine of PICT    | 2019 - 2020
+- 📑 Event Manager at PICTOREAL-Annual Magazine of PICT               | 2018 - 2019
+- 📷 Photo shoot Coordinator at PICTOREAL-Annual Magazine of PICT     | 2017 - 2018
+- 🎭 Organizer at Addiction-Annual Cultural Event                     | 2018 - 2019
+- ⚜️ Design Team Head at PICT CSI Student Branch                      | 2017 - 2019
 
 <br>
 
 ## ✨ Extra Curricular Activities
-- Taught students in an orphanage as a member of PICTOSOCIAL - social service team of PICT | 2017 - 2020
-- Managed Blood Donation Drive and Money Donation Drive                                    | 2017 - 2020
+- 🧑‍🏫 Taught students in an orphanage as a member of PICTOSOCIAL - social service team of PICT | 2017 - 2020
+- 🩸 Managed Blood Donation Drive and Money Donation Drive                                    | 2017 - 2020
 
 <br>
 
 ## 😄 Hobbies
-📸 Photography   🥘 Cooking   ⛰️ Trekking & Traveling   🎹 Playing Harmonium
+📸 Photography&nbsp;&nbsp;&nbsp;🥘 Cooking&nbsp;&nbsp;&nbsp;⛰️ Trekking & Traveling&nbsp;&nbsp;&nbsp;🎹 Playing Harmonium
 
 <hr>
 

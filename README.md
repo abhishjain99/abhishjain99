@@ -3,67 +3,100 @@
 
 # 👋 Hey there! I'm [Abhishek Firodiya](https://abhishjain99.github.io/portfolio/)
 
-I'm a driven Software Engineer 🧑‍💻 with a keen interest in leveraging technology to tackle real-world challenges and enhance societal well-being. While I'm deeply invested in grasping the broader view of system architecture, my primary focus remains on deciphering critical components to drive impactful outcomes. 🧑‍🎓 I'm pursuing a Master of Computer Science at North Carolina State University, where I'm exploring diverse domains ranging from system scalability to the intricacies of Artificial Intelligence. My particular interest lies in exploring the potential of ☁️ cloud technology and its applications in building scalable and reliable solutions. ⚡My expertise is in developing web and mobile applications with latest technologies and cloud solutions. I have a strong proficiency in React, React Native, Redux, Spring, and Spring Boot frameworks. I'm working as a Research Assistant at the Geospatial Analysis for Environmental Change Lab 🌏 where I'm responsible for working with flood images 🌊, pulling them from the satellites using polygons, and processing them in batches using Python and AWS.
+<!-- I'm a driven Software Engineer 🧑‍💻 with a keen interest in leveraging technology to tackle real-world challenges and enhance societal well-being. While I'm deeply invested in grasping the broader view of system architecture, my primary focus remains on deciphering critical components to drive impactful outcomes. 🧑‍🎓 I recently graduated with a Master degree in Computer Science at North Carolina State University. ⚡My expertise is in developing web and mobile applications with latest front-end technologies. I have a strong proficiency in React, Redux, JavaScript, MySQL, Python, and Django frameworks. I worked as a Research Assistant with Dr. Noboru Matsuda 🌏 where I'm responsible for working with data coding task 🌊, which . -->
 
-> ✅ Success, for me, is not just about achieving milestones, but also about the impact generated
+I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a collaborative spirit to teamwork and a can-do attitude to solo projects. Whether it's web development, data science, or machine learning, I'm up for the task. 
+🧑‍🎓 I recently graduated with a Master degree in Computer Science at North Carolina State University. ⚡My expertise is in developing web and mobile applications with latest front-end technologies. I have a strong proficiency in JavaScript, React, Angular, Python, and MySQL. I worked as 🌏 Research Assistant with Dr. Noboru Matsuda where I was responsible for working with data analysts to process data, 🧑‍🏫 Teaching Assistant with Dr. Ben Watson to mentor undergrad students in C and Software Tools course. 🧑‍💻 I worked with Dr. Ed Gehringer on LLM based Teaching Assistant and AI based Peer Tutoring.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekfirodiya/)](https://www.linkedin.com/in/abhishekfirodiya/) [![GitHub](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/abhishjain99)](https://github.com/abhishjain99) [![Gmail](https://img.shields.io/badge/-GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto://asfirodiya@gmail.com)](mailto://asfirodiya@gmail.com) [![Portfolio](https://img.shields.io/badge/-portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&link=https://abhishjain99.github.io/portfolio/)]([https://omjain.netlify.app](https://abhishjain99.github.io/portfolio/) [![Leetcode](https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white&link=https://leetcode.com/u/abhishekfirodiya/)](https://leetcode.com/u/abhishekfirodiya/)
+> ✅ Ready to face challenges, no matter how rough,
+Ready to solve problems, no matter how tough,
+I can work with a team & I alone am also enough!
+
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekfirodiya/)](https://www.linkedin.com/in/abhishekfirodiya/) [![GitHub](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/abhishjain99)](https://github.com/abhishjain99) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto://asfirodiya@gmail.com)](mailto://asfirodiya@gmail.com) [![Portfolio](https://img.shields.io/badge/-portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&link=https://abhishjain99.github.io/portfolio/)](https://abhishjain99.github.io/portfolio/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/u/abhishekfirodiya/)](https://leetcode.com/u/abhishekfirodiya/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abhish.jain99/)
 
 <br>
 
-## 💻 Things I code with
+## 💻 Skills
 
-### 🧑‍💻 Languages
+### 📋 Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-plastic&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-plastic&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-plastic&logo=Javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-plastic&logo=Typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-plastic&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-plastic&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### ⚓ Frameworks and Libraries
+### 📚 Frameworks and Libraries
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-plastic&logo=React&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-35BDB2?style=flat-plastic&logo=React&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-plastic&logo=Redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-plastic&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-plastic&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-plastic&logo=Spring&logoColor=white)
-![Spring-Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-plastic&logo=Spring-Boot&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-plastic&logo=Bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-plastic&logo=jQuery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<!-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-plastic&logo=Pandas&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-plastic&logo=GeoPandas&logoColor=white)
-![scikitlearn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-plastic&logo=scikitlearn&logoColor=white) -->
+### 💾 Databases
 
-### ☁️ Cloud Hosting and Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-plastic&logo=amazons3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-plastic&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-plastic&logo=MySQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-plastic&logo=MariaDB&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-plastic&logo=MongoDB&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-plastic&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-plastic&logo=heroku&logoColor=white)
+### 💻 Platforms, OS & IDEs/Editors
 
-### ⚙️ Softwares and Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-plastic&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-plastic&logo=Yarn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-plastic&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-plastic&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-plastic&logo=GitLab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-plastic&logo=Postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-plastic&logo=Linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-plastic&logo=Ubuntu&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-plastic&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-plastic&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
+### 🖥️ ML/DL
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+### 🏢 Office
+
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+<br>
+
+## 🧑‍🏫 EDUCATION
+### North Carolina State University, Raleigh, North Carolina, USA (Current) | August 2022 - May 2024
+Master of Computer Science | GPA 4.0 / 4.0
+<br>Coursework: Automated Learning and Data Analysis (Data Mining), Network Science, Compiler Construction, Fundamentals of Data Science (Statistics), Database Management System, Neural Networks and Deep Learning, Human Computer Interaction, Social Computing and decentralized Artificial Intelligence, Design and Analysis of Algorithms
+### Pune Institute of Computer Technology, Pune, Maharashtra, India | June 2016 - April 2020
+Bachelor of Engineering in Information Technology | GPA 9.28 / 10
+<br>Coursework: Data Structures, Theory of Computation, Machine Learning, Software Design & Modeling, Web Development, Computer Network
 
 <br>
 
@@ -77,6 +110,7 @@ I'm a driven Software Engineer 🧑‍💻 with a keen interest in leveraging te
 ## 🔥 GitHub Streak
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishjain99&" alt="abhishjain99" style="height: 150px"/></p>
+
 <!--
 ## 🧑‍🏫 EDUCATION
 ### North Carolina State University, Raleigh, North Carolina, USA (Current) | August 2022 - May 2024

@@ -8,8 +8,8 @@ I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a 
 🧑‍🎓 I recently graduated with a Master degree in Computer Science at North Carolina State University. ⚡My expertise is in developing web and mobile applications with latest front-end technologies. I have a strong proficiency in _**JavaScript**_, _**React**_, _**Angular**_, _**Python**_, and _**MySQL**_. I worked as 🌏 Research Assistant with Dr. Noboru Matsuda where I was responsible for working with data analysts to process data, 🧑‍🏫 Teaching Assistant with Dr. Ben Watson to mentor undergrad students in C and Software Tools course. 🧑‍💻 I worked with Dr. Ed Gehringer on LLM based Teaching Assistant and AI based Peer Tutoring.
 
 > ✅ Ready to face challenges, no matter how rough,<br>
-> ✅ Ready to solve problems, no matter how tough,<br>
-> ✅ I can work with a team & I alone am also enough!
+> Ready to solve problems, no matter how tough,<br>
+> I can work with a team & I alone am also enough!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekfirodiya/)](https://www.linkedin.com/in/abhishekfirodiya/) [![GitHub](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/abhishjain99)](https://github.com/abhishjain99) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto://asfirodiya@gmail.com)](mailto://asfirodiya@gmail.com) [![Portfolio](https://img.shields.io/badge/-portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&link=https://abhishjain99.github.io/portfolio/)](https://abhishjain99.github.io/portfolio/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/u/abhishekfirodiya/)](https://leetcode.com/u/abhishekfirodiya/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abhish.jain99/)

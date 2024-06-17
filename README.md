@@ -1,10 +1,7 @@
 📫 How to reach me: https://www.linkedin.com/in/abhishekfirodiya/
 💼 Portfolio: https://abhishjain99.github.io/portfolio/
 
-📫 How to reach me: https://www.linkedin.com/in/abhishekfirodiya/
-💼 Portfolio: https://abhishjain99.github.io/portfolio/
-
-# 👋 Hey there! I'm [Om Jain](https://omjain.netlify.app/)
+# 👋 Hey there! I'm [Abhishek Firodiya](https://abhishjain99.github.io/portfolio/)
 
 I'm a driven Software Engineer 🧑‍💻 with a keen interest in leveraging technology to tackle real-world challenges and enhance societal well-being. While I'm deeply invested in grasping the broader view of system architecture, my primary focus remains on deciphering critical components to drive impactful outcomes. 🧑‍🎓 I'm pursuing a Master of Computer Science at North Carolina State University, where I'm exploring diverse domains ranging from system scalability to the intricacies of Artificial Intelligence. My particular interest lies in exploring the potential of ☁️ cloud technology and its applications in building scalable and reliable solutions. ⚡My expertise is in developing web and mobile applications with latest technologies and cloud solutions. I have a strong proficiency in React, React Native, Redux, Spring, and Spring Boot frameworks. I'm working as a Research Assistant at the Geospatial Analysis for Environmental Change Lab 🌏 where I'm responsible for working with flood images 🌊, pulling them from the satellites using polygons, and processing them in batches using Python and AWS.
 

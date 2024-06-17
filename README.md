@@ -1,9 +1,8 @@
 📫 How to reach me: https://www.linkedin.com/in/abhishekfirodiya/
+
 💼 Portfolio: https://abhishjain99.github.io/portfolio/
 
 # 👋 Hey there! I'm [Abhishek Firodiya](https://abhishjain99.github.io/portfolio/)
-
-<!-- I'm a driven Software Engineer 🧑‍💻 with a keen interest in leveraging technology to tackle real-world challenges and enhance societal well-being. While I'm deeply invested in grasping the broader view of system architecture, my primary focus remains on deciphering critical components to drive impactful outcomes. 🧑‍🎓 I recently graduated with a Master degree in Computer Science at North Carolina State University. ⚡My expertise is in developing web and mobile applications with latest front-end technologies. I have a strong proficiency in React, Redux, JavaScript, MySQL, Python, and Django frameworks. I worked as a Research Assistant with Dr. Noboru Matsuda 🌏 where I'm responsible for working with data coding task 🌊, which . -->
 
 I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a collaborative spirit to teamwork and a can-do attitude to solo projects. Whether it's web development, data science, or machine learning, I'm up for the task. 
 🧑‍🎓 I recently graduated with a Master degree in Computer Science at North Carolina State University. ⚡My expertise is in developing web and mobile applications with latest front-end technologies. I have a strong proficiency in JavaScript, React, Angular, Python, and MySQL. I worked as 🌏 Research Assistant with Dr. Noboru Matsuda where I was responsible for working with data analysts to process data, 🧑‍🏫 Teaching Assistant with Dr. Ben Watson to mentor undergrad students in C and Software Tools course. 🧑‍💻 I worked with Dr. Ed Gehringer on LLM based Teaching Assistant and AI based Peer Tutoring.
@@ -15,7 +14,7 @@ I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekfirodiya/)](https://www.linkedin.com/in/abhishekfirodiya/) [![GitHub](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/abhishjain99)](https://github.com/abhishjain99) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto://asfirodiya@gmail.com)](mailto://asfirodiya@gmail.com) [![Portfolio](https://img.shields.io/badge/-portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&link=https://abhishjain99.github.io/portfolio/)](https://abhishjain99.github.io/portfolio/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/u/abhishekfirodiya/)](https://leetcode.com/u/abhishekfirodiya/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abhish.jain99/)
 
-<br>
+<hr>
 
 ## 💻 Skills
 
@@ -87,15 +86,26 @@ I'm a driven Software Engineer 🧑‍💻 who thrives on challenges! I bring a 
 
 <br>
 
-## 🧑‍🏫 EDUCATION
-### North Carolina State University, Raleigh, North Carolina, USA (Current) | August 2022 - May 2024
-Master of Computer Science | GPA 4.0 / 4.0
-<br>Coursework: Automated Learning and Data Analysis (Data Mining), Network Science, Compiler Construction, Fundamentals of Data Science (Statistics), Database Management System, Neural Networks and Deep Learning, Human Computer Interaction, Social Computing and decentralized Artificial Intelligence, Design and Analysis of Algorithms
-### Pune Institute of Computer Technology, Pune, Maharashtra, India | June 2016 - April 2020
-Bachelor of Engineering in Information Technology | GPA 9.28 / 10
-<br>Coursework: Data Structures, Theory of Computation, Machine Learning, Software Design & Modeling, Web Development, Computer Network
+## ⚡ LEADERSHIP
+- Digital Media Head at Maitri Indian Graduate Student Association | 2022 - 2024
+- Joint Magazine Secretary at PICTOREAL-Annual Magazine of PICT    | 2019 - 2020
+- Design Team Head at PICT CSI Student Branch                      | 2018 - 2019
+- Event Manager at PICTOREAL-Annual Magazine of PICT               | 2018 - 2019
+- Organizer at Addiction-Annual Cultural Event                     | 2018 - 2019
+- Photo shoot Coordinator at PICTOREAL-Annual Magazine of PICT  | 2017 - 2018
 
 <br>
+
+## ✨ Extra Curricular Activities
+- Taught students in an orphanage as a member of PICTOSOCIAL - social service team of PICT | 2017 - 2020
+- Managed Blood Donation Drive and Money Donation Drive                                    | 2017 - 2020
+
+<br>
+
+## 😄 Hobbies
+📸 Photography   🥘 Cooking   ⛰️ Trekking & Traveling   🎹 Playing Harmonium
+
+<hr>
 
 ## 📈 GitHub Stats
 
@@ -103,6 +113,8 @@ Bachelor of Engineering in Information Technology | GPA 9.28 / 10
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishjain99&show_icons=true&locale=en&layout=compact" alt="abhishjain99" style="height: 150px; margin-right: 50" />
     <img src="https://github-readme-stats.vercel.app/api?username=abhishjain99&show_icons=true&locale=en" alt="abhishjain99" style="height: 150px"/>
 </div>
+
+<br>
 
 ## 🔥 GitHub Streak
 
